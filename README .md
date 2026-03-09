@@ -127,9 +127,7 @@ This is my first data analysis portfolio project. I am actively looking for inte
 
 📧 mirriamsthablem28@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/
-mirriam-s-maseko
-Vanity URL name
-)
+mirriam-s-maseko)
 
 ---
 
